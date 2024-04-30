@@ -1,3 +1,5 @@
+# This project is create using React.js and tailwin css fro runinng this project use  npm run start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
